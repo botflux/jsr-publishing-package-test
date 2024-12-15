@@ -1,6 +1,8 @@
 /**
  * Say hello to someone.
  * 
+ * @module
+ * 
  * @example ```typescript
  * import { hello } from "jsr:@botflux/package-publishing-test"
  * 
