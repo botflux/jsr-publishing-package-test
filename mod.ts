@@ -1,6 +1,12 @@
 /**
  * Say hello to someone.
  * 
+ * @example ```typescript
+ * import { hello } from "jsr:@botflux/package-publishing-test"
+ * 
+ * console.log(hello("John")) // Hello, John!
+ * ```
+ * 
  * @param name the person you want to say hell to
  * @returns 
  */
